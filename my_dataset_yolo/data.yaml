@@ -1,0 +1,14 @@
+names:
+- tablets
+- blister
+- anomalies
+- broken_tablets
+- broken_blister
+- not_tablets
+- dirt
+- whatthis
+nc: 8
+path: my_dataset_yolo
+train: images/train
+val: images/val
+test: images/test
